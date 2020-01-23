@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Cliff Gor - CV</string>
+    <string name="name">Cliff\nObiero\nGor</string>
+    <string name="job_name">Android &amp; Web Engineer </string>
+    <string name="personal_statement"> Dynamic and passionate Software Developer with experience in designing and developing user-centric and robust systems and applications. Strategic and creative thinker, with the ability to articulate and present technical matters to all audiences. Owned software development strategy from concept to implementation and user experience. Fluent in English and Kiswahili. </string>
+
 </resources>
